@@ -1,0 +1,47 @@
+Project Overview
+This project predicts whether a customer is a good or bad credit risk using Machine Learning techniques. The model is built using a Decision Tree Classifier and helps financial institutions make informed lending decisions.
+Dataset Information
+The dataset contains customer information such as:
+Checking Balance
+Loan Duration
+Credit History
+Loan Purpose
+Loan Amount
+Savings Balance
+Employment Status
+Personal Information
+Other Financial Attributes
+Dataset Size:
+Rows: 1000
+Columns: 21
+Technologies Used
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-Learn
+Jupyter Notebook
+Project Workflow
+Step 1: Data Collection
+Load dataset using Pandas
+Step 2: Data Exploration
+Check dataset shape
+View dataset information
+Analyze missing values
+Step 3: Data Preprocessing
+Handle categorical variables
+Apply Label Encoding
+Prepare features and target variables
+Step 4: Model Building
+Split data into training and testing datasets
+Train Decision Tree Classifier
+Step 5: Model Evaluation
+Calculate Accuracy Score
+Generate Confusion Matrix
+Analyze model performance
+Step 6: Visualization
+Plot Decision Tree
+Visualize model results
+Results
+The Decision Tree model was trained and evaluated on the credit dataset to predict customer creditworthiness.
